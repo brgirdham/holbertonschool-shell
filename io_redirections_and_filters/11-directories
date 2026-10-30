@@ -1,0 +1,2 @@
+#!/bin/bash
+find /var -type d -name "*"
